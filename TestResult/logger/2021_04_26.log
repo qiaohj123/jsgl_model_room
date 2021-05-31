@@ -1,0 +1,123 @@
+[2021-04-26 09:06:08,684] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-04-26 09:06:08,745] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-04-26 09:06:45,933] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-04-26 09:06:48,953] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-04-26 09:06:49,122] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-04-26 09:06:50,258] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 工序检查 页面
+[2021-04-26 09:06:51,997] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-04-26 09:06:53,045] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 现场收方单 页面
+[2021-04-26 09:07:03,032] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 工序检查 数据查看
+[2021-04-26 09:14:00,917] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-04-26 09:14:00,970] - connectionpool.py[line:442] - fuc:_make_request- DEBUG: http://127.0.0.1:63208 "POST /session/1000e78e146b543b5f12b3379d17780e/window/maximize HTTP/1.1" 200 52
+[2021-04-26 09:14:00,977] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-04-26 09:14:37,452] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-04-26 09:14:40,847] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-04-26 09:14:42,066] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 工序检查 页面
+[2021-04-26 09:14:42,108] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-04-26 09:14:45,238] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-04-26 09:14:46,285] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 现场收方单 页面
+[2021-04-26 09:14:57,413] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 工序检查 数据查看
+[2021-04-26 09:28:22,818] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-04-26 09:28:22,856] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-04-26 09:29:05,813] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-04-26 09:29:08,846] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-04-26 09:29:09,808] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 现场收方单 页面
+[2021-04-26 09:29:10,119] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-04-26 09:29:13,378] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-04-26 09:29:14,899] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 工序检查 页面
+[2021-04-26 09:29:31,991] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 工序检查 数据查看
+[2021-04-26 14:35:56,368] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-04-26 14:35:56,399] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-04-26 14:35:56,592] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-04-26 14:37:12,241] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-04-26 14:37:15,792] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-04-26 14:37:23,882] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 WBS结构 页面
+[2021-04-26 14:37:26,687] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-04-26 14:37:29,874] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-04-26 14:37:30,382] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-04-26 14:37:33,130] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 工序检查 页面
+[2021-04-26 14:37:33,276] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-04-26 14:37:37,200] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 中间计量 页面
+[2021-04-26 14:37:57,613] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 工序检查 数据查看
+[2021-04-26 14:38:10,393] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 中间计量页面标段结构选择
+[2021-04-26 14:38:33,826] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 新增中间计量
+[2021-04-26 14:38:39,419] - PublickLib.py[line:211] - fuc:__console- INFO: >>> BIM-基础信息查看
+[2021-04-26 14:39:25,957] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 返回到首页
+[2021-04-26 14:39:35,319] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素//span[text()="首页"]不可见,定位失败
+[2021-04-26 14:40:40,452] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素//span[text()="基础信息"]不可见,定位失败
+[2021-04-26 14:57:09,686] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-04-26 14:57:09,709] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-04-26 14:57:09,867] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-04-26 14:57:09,933] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-04-26 14:58:18,570] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-04-26 14:58:21,770] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-04-26 14:58:22,955] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 工序检查 页面
+[2021-04-26 14:58:26,382] - connectionpool.py[line:442] - fuc:_make_request- DEBUG: http://127.0.0.1:52026 "POST /session/fbb53531edfc95294a1306a68a822aad/element/e7b5ce18-ec7f-46f3-ab22-08e8edb85da3/click HTTP/1.1" 200 14
+[2021-04-26 14:58:26,901] - connectionpool.py[line:442] - fuc:_make_request- DEBUG: http://127.0.0.1:52026 "GET /session/fbb53531edfc95294a1306a68a822aad/screenshot HTTP/1.1" 200 603124
+[2021-04-26 14:58:28,950] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-04-26 14:58:30,841] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-04-26 14:58:32,368] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-04-26 14:58:32,687] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-04-26 14:58:34,095] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-04-26 14:58:35,152] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 WBS结构 页面
+[2021-04-26 14:58:36,298] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-04-26 14:58:36,956] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 中间计量 页面
+[2021-04-26 14:58:39,383] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 质检评定 页面
+[2021-04-26 14:58:52,101] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 工序检查 数据查看
+[2021-04-26 14:58:57,151] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 切换到外部系统最新窗口
+[2021-04-26 14:58:57,151] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 浏览器窗口切换
+[2021-04-26 14:58:58,004] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 窗口切换完成
+[2021-04-26 14:59:09,467] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 中间计量页面标段结构选择
+[2021-04-26 14:59:30,938] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 质检评定 页面选择标段及分项工程
+[2021-04-26 14:59:33,923] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 新增中间计量
+[2021-04-26 14:59:50,449] - PublickLib.py[line:211] - fuc:__console- INFO: >>> BIM-基础信息查看
+[2021-04-26 14:59:53,138] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素//div[text()="K1"]不可见,定位失败
+[2021-04-26 14:59:59,768] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 返回到首页
+[2021-04-26 15:00:09,287] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素//span[text()="首页"]不可见,定位失败
+[2021-04-26 15:01:55,227] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素//span[text()="基础信息"]不可见,定位失败
+[2021-04-26 15:04:24,164] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-04-26 15:04:24,169] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-04-26 15:04:24,274] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-04-26 15:04:24,430] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-04-26 15:06:09,420] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-04-26 15:06:13,106] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-04-26 15:06:14,121] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 WBS结构 页面
+[2021-04-26 15:06:17,723] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-04-26 15:06:19,192] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-04-26 15:06:19,264] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-04-26 15:06:20,795] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-04-26 15:06:22,605] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-04-26 15:06:22,698] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-04-26 15:06:22,870] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 工序检查 页面
+[2021-04-26 15:06:25,191] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 质检评定 页面
+[2021-04-26 15:06:26,162] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 中间计量 页面
+[2021-04-26 16:16:07,713] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-04-26 16:16:07,726] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-04-26 16:16:07,729] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-04-26 16:16:07,746] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-04-26 16:17:06,994] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-04-26 16:17:11,930] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-04-26 16:17:12,950] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-04-26 16:17:14,518] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 WBS结构 页面
+[2021-04-26 16:17:16,120] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-04-26 16:17:18,697] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 质检评定 页面
+[2021-04-26 16:17:21,498] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-04-26 16:17:22,104] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-04-26 16:17:25,121] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-04-26 16:17:25,760] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-04-26 16:17:28,280] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 中间计量 页面
+[2021-04-26 16:17:28,287] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 工序检查 页面
+[2021-04-26 16:17:33,958] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 切换到外部系统最新窗口
+[2021-04-26 16:17:33,959] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 浏览器窗口切换
+[2021-04-26 16:17:35,740] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 窗口切换完成
+[2021-04-26 16:17:40,180] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 质检评定 页面选择标段及分项工程
+[2021-04-26 16:17:51,791] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 工序检查 数据查看
+[2021-04-26 16:17:59,424] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素//div[text()="施工自检"]不可见,定位失败
+[2021-04-26 16:18:01,126] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 中间计量页面标段结构选择
+[2021-04-26 16:18:04,268] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 质检评定 页面添加主表单
+[2021-04-26 16:18:23,120] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素//div[@class="ant-modal-body"]/div/div/div[2]/div/div/div/div/input不可见,定位失败
+[2021-04-26 16:18:24,490] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 新增中间计量
+[2021-04-26 16:18:29,317] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 返回到首页
+[2021-04-26 16:18:40,114] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素//span[text()="首页"]不可见,定位失败
+[2021-04-26 16:18:40,146] - PublickLib.py[line:211] - fuc:__console- INFO: >>> BIM-基础信息查看
+[2021-04-26 16:21:03,800] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素//span[text()="基础信息"]不可见,定位失败

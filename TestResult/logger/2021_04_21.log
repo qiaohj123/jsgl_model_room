@@ -1,0 +1,38 @@
+[2021-04-21 15:41:19,275] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-04-21 15:41:27,580] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-04-21 15:41:32,623] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer1不可见,定位失败
+[2021-04-21 15:42:08,649] - PublickLib.py[line:211] - fuc:__console- INFO: >>> BIM-计量管理查看
+[2021-04-21 15:42:38,343] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素ant-modal-close-x不可见,定位失败
+[2021-04-21 15:42:38,344] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 该结构暂无 现场收方单
+[2021-04-21 15:42:54,727] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素ant-modal-close-x不可见,定位失败
+[2021-04-21 15:42:54,730] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 该结构暂无 计量信息
+[2021-04-21 15:50:48,844] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-04-21 15:50:56,042] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-04-21 15:51:01,083] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer1不可见,定位失败
+[2021-04-21 15:52:08,543] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-04-21 15:52:15,122] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-04-21 15:52:20,185] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer1不可见,定位失败
+[2021-04-21 15:52:56,344] - PublickLib.py[line:211] - fuc:__console- INFO: >>> BIM-计量管理查看
+[2021-04-21 16:11:38,327] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 该结构暂无 现场收方单
+[2021-04-21 16:11:39,395] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素//*[text()="计量信息"]//..//../div[2]/div[last()]不可见,定位失败
+[2021-04-21 16:11:39,395] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 该结构暂无 计量信息
+[2021-04-21 16:23:29,759] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-04-21 16:23:35,888] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-04-21 16:23:40,943] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer1不可见,定位失败
+[2021-04-21 16:24:17,161] - PublickLib.py[line:211] - fuc:__console- INFO: >>> BIM-计量管理查看
+[2021-04-21 16:24:28,066] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 该结构暂无 现场收方单
+[2021-04-21 16:24:29,458] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 该结构暂无 计量信息
+[2021-04-21 16:39:03,602] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-04-21 16:39:13,133] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-04-21 16:39:49,212] - PublickLib.py[line:211] - fuc:__console- INFO: >>> BIM-计量管理查看
+[2021-04-21 16:39:57,362] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 该结构暂无 现场收方单
+[2021-04-21 16:39:57,564] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 该结构暂无 计量信息
+[2021-04-21 16:40:36,980] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-04-21 16:40:45,946] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-04-21 16:40:49,028] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-04-21 16:43:28,153] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-04-21 16:43:35,796] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-04-21 16:44:01,057] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素//span[text()="K1"]不可见,定位失败
+[2021-04-21 16:44:23,624] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-04-21 16:44:31,107] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-04-21 16:44:56,257] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素//span[text()="K1"]不可见,定位失败

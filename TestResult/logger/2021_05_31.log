@@ -1,0 +1,10 @@
+[2021-05-31 10:23:39,349] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-05-31 10:23:46,610] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-05-31 10:23:47,454] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 WBS结构 页面
+[2021-05-31 10:24:57,034] - PublickLib.py[line:211] - fuc:__console- INFO: >>> BIM-基础信息查看
+[2021-05-31 10:26:57,434] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素//span[text()="基础信息"]不可见,定位失败
+[2021-05-31 11:49:37,519] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-05-31 11:50:01,833] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-05-31 11:50:04,793] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 WBS结构 页面
+[2021-05-31 11:51:25,279] - PublickLib.py[line:211] - fuc:__console- INFO: >>> BIM-基础信息查看
+[2021-05-31 11:53:25,759] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素//span[text()="基础信息"]不可见,定位失败

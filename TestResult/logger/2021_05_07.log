@@ -1,0 +1,135 @@
+[2021-05-07 10:51:00,190] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-05-07 10:51:09,504] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-05-07 10:51:12,600] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-05-07 10:51:12,699] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 质检评定 页面
+[2021-05-07 10:51:16,524] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 切换到外部系统最新窗口
+[2021-05-07 10:51:16,526] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 浏览器窗口切换
+[2021-05-07 10:51:16,588] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 窗口切换完成
+[2021-05-07 10:51:19,106] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 质检评定 页面选择标段及分项工程
+[2021-05-07 10:53:18,143] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-05-07 10:53:29,156] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-05-07 10:53:32,242] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-05-07 10:53:32,303] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 质检评定 页面
+[2021-05-07 10:53:36,082] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 切换到外部系统最新窗口
+[2021-05-07 10:53:36,084] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 浏览器窗口切换
+[2021-05-07 10:53:36,098] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 窗口切换完成
+[2021-05-07 10:53:37,145] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 质检评定 页面选择标段及分项工程
+[2021-05-07 10:53:52,021] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 质检评定 页面添加主表单
+[2021-05-07 10:54:09,373] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素//div[@class="ant-modal-body"]/div/div/div[2]/div/div/div/div/span不可见,定位失败
+[2021-05-07 11:05:52,463] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-05-07 11:05:58,104] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-05-07 11:06:01,178] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-05-07 11:06:01,237] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 质检评定 页面
+[2021-05-07 11:06:05,000] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 切换到外部系统最新窗口
+[2021-05-07 11:06:05,002] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 浏览器窗口切换
+[2021-05-07 11:06:05,024] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 窗口切换完成
+[2021-05-07 11:06:06,078] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 质检评定 页面选择标段及分项工程
+[2021-05-07 11:06:21,301] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 质检评定 页面添加主表单
+[2021-05-07 11:06:41,960] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 质检评定 页面添加子表单
+[2021-05-07 11:35:34,718] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-05-07 11:35:47,203] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-05-07 11:36:26,442] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-05-07 11:36:32,132] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-05-07 11:36:35,203] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-05-07 11:36:35,262] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 质检评定 页面
+[2021-05-07 11:36:39,241] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 切换到外部系统最新窗口
+[2021-05-07 11:36:39,244] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 浏览器窗口切换
+[2021-05-07 11:36:39,271] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 窗口切换完成
+[2021-05-07 11:36:40,098] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 质检评定 页面选择标段及分项工程
+[2021-05-07 11:36:54,973] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 质检评定 页面添加主表单
+[2021-05-07 11:37:15,161] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 质检评定 页面添加子表单
+[2021-05-07 11:37:25,400] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素//div[text()="监表06 施工放样报验单"]/parent::td/following-sibling::div//span[text()="查看"]不可见,定位失败
+[2021-05-07 11:50:58,893] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-05-07 11:51:03,640] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-05-07 11:51:06,735] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-05-07 11:51:06,808] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 现场收方单 页面
+[2021-05-07 14:19:30,996] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-05-07 14:19:40,252] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-05-07 14:19:43,323] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-05-07 14:19:43,386] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 现场收方单 页面
+[2021-05-07 14:20:34,027] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素el-table__body不可见,定位失败
+[2021-05-07 14:20:34,029] - PublickLib.py[line:215] - fuc:__console- WARNING: 获取单元格数据失败Message: 
+
+[2021-05-07 14:33:51,597] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-05-07 14:33:56,869] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-05-07 14:33:59,939] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-05-07 14:34:00,000] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 现场收方单 页面
+[2021-05-07 14:34:34,770] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素//span[text()="K73+830-K73+950段V级深埋洞身开挖"]/ancestor::li//span[@class="checkbox_false_full"]不可见,定位失败
+[2021-05-07 14:42:48,365] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-05-07 14:42:54,114] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-05-07 14:42:57,204] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-05-07 14:42:57,273] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 现场收方单 页面
+[2021-05-07 14:43:32,324] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素//span[text()="K73+830-K73+950段V级深埋洞身开挖"]/ancestor::li//span[@class="checkbox_false_full"]不可见,定位失败
+[2021-05-07 15:00:56,753] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-05-07 15:01:05,269] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-05-07 15:01:08,337] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-05-07 15:01:08,393] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 现场收方单 页面
+[2021-05-07 15:01:50,111] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素//span[text()="K73+643~K80+500大凉山1号隧道右幅"]/parent::a/following-sibling::ul//span[text()="503-1-a-2-AR（挖方（距洞口3km范围内非瓦斯地层段））"]//..//../span[2]不可见,定位失败
+[2021-05-07 15:07:24,899] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-05-07 15:07:29,665] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-05-07 15:07:32,751] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-05-07 15:07:32,816] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 现场收方单 页面
+[2021-05-07 15:08:07,936] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素//span[text()="K73+830-K73+950段V级深埋洞身开挖"]/parent::a/preceding-sibling::span//span[@class="checkbox_false_full"]不可见,定位失败
+[2021-05-07 15:08:40,793] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-05-07 15:08:45,339] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-05-07 15:08:48,457] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-05-07 15:08:48,523] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 现场收方单 页面
+[2021-05-07 15:09:24,574] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素//div[@class="layui-layer-content"]/iframe不可见,定位失败
+[2021-05-07 15:09:47,721] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-05-07 15:09:53,077] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-05-07 15:09:56,172] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-05-07 15:09:56,238] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 现场收方单 页面
+[2021-05-07 15:10:49,049] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素el-table__body不可见,定位失败
+[2021-05-07 15:10:49,051] - PublickLib.py[line:215] - fuc:__console- WARNING: 获取单元格数据失败Message: 
+
+[2021-05-07 15:16:05,726] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-05-07 15:16:12,684] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-05-07 15:16:15,768] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-05-07 15:16:15,837] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 现场收方单 页面
+[2021-05-07 15:16:58,577] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-05-07 15:17:08,959] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-05-07 15:17:12,037] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-05-07 15:17:12,096] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 现场收方单 页面
+[2021-05-07 15:17:54,293] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 浏览器窗口切换
+[2021-05-07 15:17:54,309] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 窗口切换完成
+[2021-05-07 15:18:05,358] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素//span[text()="魏鹏"]不可见,定位失败
+[2021-05-07 15:33:05,559] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-05-07 15:33:09,890] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-05-07 15:33:13,055] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-05-07 15:33:13,140] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 现场收方单 页面
+[2021-05-07 15:33:55,374] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 浏览器窗口切换
+[2021-05-07 15:33:55,396] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 窗口切换完成
+[2021-05-07 15:34:06,961] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素el-dialog__body不可见,定位失败
+[2021-05-07 15:34:17,199] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素//span[text()="魏鹏"]不可见,定位失败
+[2021-05-07 15:35:42,637] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-05-07 15:35:49,870] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-05-07 15:35:52,942] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-05-07 15:35:52,999] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 现场收方单 页面
+[2021-05-07 15:36:35,369] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 浏览器窗口切换
+[2021-05-07 15:36:35,384] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 窗口切换完成
+[2021-05-07 15:36:37,230] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素el-dialog__body不可见,定位失败
+[2021-05-07 15:36:37,231] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 提交上报
+[2021-05-07 15:42:59,614] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-05-07 15:43:09,807] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-05-07 15:43:12,870] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素layui-layer-btn1不可见,定位失败
+[2021-05-07 15:43:12,920] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 现场收方单 页面
+[2021-05-07 15:43:54,725] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 浏览器窗口切换
+[2021-05-07 15:43:54,742] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 窗口切换完成
+[2021-05-07 15:43:56,825] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素el-dialog__body不可见,定位失败
+[2021-05-07 15:43:56,826] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 提交上报
+[2021-05-07 15:51:23,845] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-05-07 15:51:29,150] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-05-07 15:51:29,443] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 现场收方单 页面
+[2021-05-07 15:52:11,945] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 浏览器窗口切换
+[2021-05-07 15:52:11,961] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 窗口切换完成
+[2021-05-07 15:52:13,742] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 提交上报
+[2021-05-07 17:31:16,651] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 登录系统
+[2021-05-07 17:31:21,906] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 系统登录成功
+[2021-05-07 17:31:22,713] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 进入到 现场收方单 页面
+[2021-05-07 17:34:14,946] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 浏览器窗口切换
+[2021-05-07 17:34:14,963] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 窗口切换完成
+[2021-05-07 17:34:16,538] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 提交上报
+[2021-05-07 17:34:21,644] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 浏览器窗口切换
+[2021-05-07 17:34:21,658] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 窗口切换完成
+[2021-05-07 17:34:21,660] - PublickLib.py[line:211] - fuc:__console- INFO: >>> 返回到首页
+[2021-05-07 17:34:31,945] - PublickLib.py[line:217] - fuc:__console- ERROR: >>> 元素//span[text()="首页"]不可见,定位失败
